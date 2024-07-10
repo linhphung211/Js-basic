@@ -10,4 +10,5 @@ let z = 6;
 
 
 console.log(`young rich'l"'''' n**gas`, x, y, z)
+console.log('Test: ' + 'x = ' + x + 'y = ' + y + 'z = ' + z);
 
